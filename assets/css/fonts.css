@@ -1,24 +1,25 @@
 body {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-weight: 400;
 }
 body input, body textarea, body .btn, body button {
-  font-family: 'Roboto', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-weight: 500;
 }
 
 blockquote p {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .hairline {
-  font-weight: 100 !important;
+  font-weight: 400 !important;
 }
 .hairline strong {
-  font-weight: 300;
+  font-weight: 400;
 }
 
 .light {
-  font-weight: 300 !important;
+  font-weight: 400 !important;
 }
 
 .bold {
@@ -30,21 +31,21 @@ blockquote p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Slab', sans-serif;
-  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .lead {
-  font-weight: 300;
+  font-weight: 400;
 }
 .lead strong {
-  font-weight: 400;
+  font-weight: 500;
 }
 
 #masthead {
-  font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
 }
 
 .navbar-brand {
-  font-weight: 300;
+  font-weight: 400;
 }

@@ -209,10 +209,6 @@ h2 small {
   font-size: 0.75em;
 }
 
-h3 {
-  font-size: 18px;
-}
-
 h3 small {
   font-size: 0.75em;
 }
@@ -870,11 +866,11 @@ body > .ui-datepicker {
 .menu .navbar-brand img {
   display: inline-block;
   position: relative;
-  max-height: 100%;
+  max-height: 70%;
   margin-right: 4px;
   vertical-align: top;
   top: 50%;
-  left: 0px;
+  left: 2rem;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
   transform: translate3d(0, -50%, 0);
@@ -917,8 +913,8 @@ body > .ui-datepicker {
   font-style: normal;
   position: relative;
   transition: all 0.3s;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 .menu .nav > li > a:focus {
   outline: none;
@@ -1050,7 +1046,7 @@ body > .ui-datepicker {
   transform: translate3d(0, 0, 0);
 }
 .navbar-toggle:hover, .navbar-toggle:focus, .navbar-toggle:active {
-  background: none;
+
   transform: translate3d(0, 0, 0);
 }
 .navbar-toggle .icon-bar {
@@ -1067,6 +1063,7 @@ body > .ui-datepicker {
 }
 .navbar-toggle .icon-bar:nth-child(1) {
   top: 0;
+
 }
 .navbar-toggle .icon-bar:nth-child(2) {
   top: 50%;
@@ -1982,10 +1979,10 @@ pre {
 .box-round, .box-rect, .box-square {
   display: block;
   text-align: center;
-  margin: 0 auto 24px;
+  margin: 2rem auto 0;
   position: relative;
   z-index: 100;
-  width: 168px;
+  width: 120px;
   max-width: 100%;
 }
 
@@ -2064,14 +2061,14 @@ pre {
 }
 
 .box-big {
-  width: 200px;
+  width: 120px;
 }
 .box-big i {
   font-size: 60px;
 }
 
 .box-huge {
-  width: 250px;
+  width: 150px;
 }
 .box-huge i {
   font-size: 72px;
