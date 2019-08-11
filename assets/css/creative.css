@@ -1241,7 +1241,7 @@ input[type="button"] {
 
 .menu .dropdown-menu > li > a:hover, .menu .dropdown-menu > .active > a, .menu .dropdown-menu > .active > a:hover, .menu .dropdown-menu > .active > a:focus {
   color: #ffffff;
-  background: rgba(0, 207, 255, .8);
+  background: rgba(0, 207, 255, .075);
 }
 
 .menu .nav > li > .dropdown-menu:after, .menu .nav > li > .dropdown-menu:before {
@@ -1591,15 +1591,15 @@ input[type="button"] {
   }
 
   .menu .open .dropdown-menu {
-    background: rgba(68, 113, 122, 0.9);
     border-radius: 0;
     box-shadow: none;
+    background: none;
   }
   .menu .open .dropdown-menu > li > a {
     border-radius: 0;
   }
   .menu .open .dropdown-menu > li > a:hover, .menu .open .dropdown-menu > li > a:focus, .menu .open .dropdown-menu > li.active > a {
-    color: rgba(0, 207, 255, 0.8) !important;
+      background: rgba(0, 207, 255, .85) !important;
   }
 
   .dropdown-submenu > a:after {
