@@ -2781,7 +2781,7 @@ h6.text-light,
 }
 
 .text-light a, a.text-light {
-  color: rgba(0, 0, 0, 0.8);
+  color: rgba(0, 207, 255, .9);
 }
 .text-light a:hover, .text-light a:focus, a.text-light:hover, a.text-light:focus {
   color: #ffffff;
@@ -2798,15 +2798,15 @@ h6.text-light,
 }
 
 .text-light.btn-link, .text-light .btn-link {
-  box-shadow: 0px 0px 0px 1px #ffffff inset !important;
+  box-shadow: 0px 0px 0px 1px #00cfff inset !important;
 }
 .text-light.btn-link i, .text-light .btn-link i {
-  color: #ffffff;
+  color: #00cfff;
 }
 
 .text-light.btn-link:hover, .text-light .btn-link:hover, .text-light.btn-link:focus, .text-light .btn-link:focus {
-  box-shadow: 0px 0px 0px 1px rgba(255, 255, 255, 0.9) inset !important;
-  background: none;
+  box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2) inset !important;
+  background: #00cfff;
 }
 
 .text-light.btn-primary, .text-light .btn-primary {
