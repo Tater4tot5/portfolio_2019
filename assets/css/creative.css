@@ -911,6 +911,10 @@ blockquote.blockquote-simple img {
   color: #00cfff;
 }
 
+.follow .text-white {
+  color: #ffffff;
+}
+
 hr {
   border-top-color: rgba(0, 0, 0, 0.1);
 }
@@ -2303,7 +2307,7 @@ input[type="button"] {
   color: #4d4d4d;
 }
 #footer small {
-  color: rgba(255, 255, 255, 0.6);
+  color: rgba(255, 255, 255, 0.6tex);
 }
 #footer .widget_recent_entries small, #footer .widget_recent_comments small, #footer .widget_archive small, #footer .widget_categories small, #footer .widget_meta small, #footer .widget_pages small, #footer .widget_twitter small, #footer .widget_nav_menu small, #footer .widget_rss small {
   color: rgba(255, 255, 255, 0.6);
