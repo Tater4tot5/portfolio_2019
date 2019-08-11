@@ -194,7 +194,7 @@ h1.headings-caps, h2.headings-caps, h3.headings-caps, h4.headings-caps, h5.headi
 }
 
 h1 {
-  font-size: 36px;
+  font-size: 30px;
 }
 
 h1 small {
@@ -9248,7 +9248,7 @@ ul.figure-overlay-icons a {
 }
 
 .element-bottom-120 {
-  margin-bottom: 120px !important;
+  margin-bottom: 2!important;
 }
 
 .element-top-130 {
