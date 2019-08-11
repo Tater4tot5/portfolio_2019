@@ -844,7 +844,7 @@ button.mfp-arrow {
 
 #content {
   background: #ffffff;
-  color: #303c40;
+  color: #4d4d4d;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1168,7 +1168,7 @@ input[type="button"] {
 .menu .nav > li > a:hover:before, .menu .nav > li > a:focus:before {
   opacity: 1;
   width: 100%;
-  background-color: #4d4d4d;
+  background-color: rgba(0, 207, 255, .4);
 }
 
 .menu a .menu-icon {
@@ -1240,8 +1240,8 @@ input[type="button"] {
 }
 
 .menu .dropdown-menu > li > a:hover, .menu .dropdown-menu > .active > a, .menu .dropdown-menu > .active > a:hover, .menu .dropdown-menu > .active > a:focus {
-  color: rgba(255, 255, 255, 0.75);
-  background: transparent;
+  color: #ffffff;
+  background: rgba(0, 207, 255, .8);
 }
 
 .menu .nav > li > .dropdown-menu:after, .menu .nav > li > .dropdown-menu:before {
