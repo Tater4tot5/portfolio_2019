@@ -2287,20 +2287,20 @@ input[type="button"] {
 }
 
 #footer {
-  background-color: #272e31;
-  color: rgba(255, 255, 255, 0.6);
+  background-color: #ffffff;
+  color: #4d4d4d;
 }
 #footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6, #footer strong {
-  color: #ffffff;
+  color: #4d4d4d;
 }
 #footer a {
-  color: #ffffff;
+  color: #4d4d4d;
 }
 #footer a:hover {
-  color: #ffffff;
+  color: #00cfff;
 }
 #footer i {
-  color: inherit;
+  color: #4d4d4d;
 }
 #footer small {
   color: rgba(255, 255, 255, 0.6);
@@ -2341,26 +2341,26 @@ input[type="button"] {
 }
 
 .subfooter {
-  background-color: #17191b;
-  color: rgba(255, 255, 255, 0.6);
+  background-color: #ffffff;
+  color: #4d4d4d;
 }
 .subfooter h1, .subfooter h2, .subfooter h3, .subfooter h4, .subfooter h5, .subfooter h6, .subfooter strong {
-  color: rgba(255, 255, 255, 0.72);
+  color: #4d4d4d;
 }
 .subfooter a {
-  color: rgba(255, 255, 255, 0.72);
+  color: #4d4d4d;
 }
 .subfooter a:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #00cfff;
 }
 .subfooter i {
-  color: inherit;
+  color: #4d4d4d;
 }
 .subfooter small {
-  color: rgba(255, 255, 255, 0.6);
+  color: #4d4d4d;
 }
 .subfooter .widget_recent_entries small, .subfooter .widget_recent_comments small, .subfooter .widget_archive small, .subfooter .widget_categories small, .subfooter .widget_meta small, .subfooter .widget_pages small, .subfooter .widget_twitter small, .subfooter .widget_nav_menu small, .subfooter .widget_rss small {
-  color: rgba(255, 255, 255, 0.6);
+  color: #4d4d4d;
 }
 .subfooter .widget_recent_entries li, .subfooter .widget_recent_entries .sub-menu, .subfooter .widget_recent_comments li, .subfooter .widget_recent_comments .sub-menu, .subfooter .widget_archive li, .subfooter .widget_archive .sub-menu, .subfooter .widget_categories li, .subfooter .widget_categories .sub-menu, .subfooter .widget_meta li, .subfooter .widget_meta .sub-menu, .subfooter .widget_pages li, .subfooter .widget_pages .sub-menu, .subfooter .widget_twitter li, .subfooter .widget_twitter .sub-menu, .subfooter .widget_nav_menu li, .subfooter .widget_nav_menu .sub-menu, .subfooter .widget_rss li, .subfooter .widget_rss .sub-menu {
   border-color: rgba(255, 255, 255, 0.1);
