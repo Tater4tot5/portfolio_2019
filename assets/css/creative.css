@@ -273,7 +273,7 @@ input[type="color"],
   }
 
   .transparent-header #content {
-    margin-top: -100px;
+    margin-top: 4rem;
     display: inline-block;
     vertical-align: top;
   }
@@ -286,15 +286,15 @@ input[type="color"],
   }
 
   .transparent-header.transparent-menu-below #content {
-    margin-top: -150px;
+    margin-top: 150px;
   }
 
   .transparent-topbar #content {
-    margin-top: -136px;
+    margin-top: 136px;
   }
 
   .transparent-topbar.transparent-menu-below #content {
-    margin-top: -186px;
+    margin-top: 186px;
   }
 }
 #navbar-slide {
@@ -925,8 +925,8 @@ pre {
 }
 
 .btn-primary, button, input[type="submit"] {
-  background-color: #6BA4B6;
-  color: #ffffff;
+  background-color: none;
+  color: #00cfff;
 }
 .btn-primary:hover, .btn-primary:active, .btn-primary:focus, .btn-primary:active:focus, .btn-primary:active:hover, button:hover, button:active, button:focus, button:active:focus, button:active:hover, input[type="submit"]:hover, input[type="submit"]:active, input[type="submit"]:focus, input[type="submit"]:active:focus, input[type="submit"]:active:hover {
   background-color: #5292a6;
