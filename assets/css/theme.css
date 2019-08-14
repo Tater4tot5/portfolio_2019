@@ -2103,7 +2103,7 @@ ul.social-icons li a {
   vertical-align: top;
 }
 ul.social-icons.social-lg li {
-  padding-right: 10px;
+  padding-right: 2.5rem;
 }
 ul.social-icons.social-lg a {
   font-size: 24px;
@@ -2115,7 +2115,7 @@ ul.social-icons.social-simple i {
   transition: color 0.2s;
 }
 ul.social-icons.social-simple a {
-  width: 1.75em;
+  width: 3em;
   background: none !important;
 }
 ul.social-icons.social-rect li a {

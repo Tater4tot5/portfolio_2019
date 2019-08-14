@@ -273,9 +273,9 @@ input[type="color"],
   }
 
   .transparent-header #content {
-    margin-top: 4rem;
     display: inline-block;
     vertical-align: top;
+    margin-top: 2rem;
   }
   .transparent-header #content.layout-boxed {
     display: inline-block;
@@ -1082,7 +1082,7 @@ input[type="color"]::-webkit-input-placeholder,
 }
 
 .form-control:focus {
-  border-color: #6BA4B6;
+  border-color: #00cfff;
 }
 
 input[type="checkbox"], input[type="radio"] {
@@ -2085,6 +2085,7 @@ input[type="button"] {
 }
 
 @media only screen and (min-width: 1170px) {
+
   .cd-timeline-content::before {
     border-color: transparent;
     border-left-color: #ffffff;
